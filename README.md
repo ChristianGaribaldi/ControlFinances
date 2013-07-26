@@ -5,6 +5,8 @@ Sistema básico para controle de finanças pessoais;
 	A execução da aplicação ocorre no Console.
 	Para rodar a aplicação, é necessário reunir todos os arquivos em uma Solution do Visual Studio.
 	Todos os arquivos necessários à execução estão na pasta principal do repositório;
+Autor: Christian Garibaldi
+
 
   
 
